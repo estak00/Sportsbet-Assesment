@@ -1,0 +1,22 @@
+{
+  "DEFAULT": {
+    "dev": {
+      "loginDetails": {
+        "username": "",
+        "pwd": ""
+      }
+    },
+    "staging": {
+      "loginDetails": {
+        "username": "",
+        "pwd": ""
+      }
+    },
+    "prod": {
+      "loginDetails": {
+        "username": "",
+        "pwd": ""
+      }
+    }
+  }
+}

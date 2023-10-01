@@ -1,0 +1,12 @@
+{
+	"recommendations": [
+		// Extension identifier format: ${publisher}.${name}. Example: vscode.csharp
+		"esbenp.prettier-vscode",
+		"dbaeumer.vscode-eslint",
+		"oderwat.indent-rainbow",
+		"wmaurer.change-case",
+		"alexkrechik.cucumberautocomplete",
+		"oouo-diogo-perdigao.docthis",
+		"eamodio.gitlens"
+	]
+}
